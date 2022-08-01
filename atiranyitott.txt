@@ -2,4 +2,6 @@
 1 setup the environment
 4 manipulations
 2 basic terminal operations
+2 basic terminal operations
+2 basic terminal operations
 5. for the Gitgod
